@@ -1,0 +1,125 @@
+{
+  "questoes": [
+    {
+      "pergunta": "Qual jogador ganhou o prêmio de Melhor Jogador do Mundo da FIFA em 2020?",
+      "alternativaA": "Lionel Messi",
+      "alternativaB": "Cristiano Ronaldo",
+      "alternativaC": "Robert Lewandowski",
+      "alternativaD": "Neymar Jr.",
+      "resposta_correta": "C"
+    },
+    {
+      "pergunta": "Qual país sediou as Olimpíadas de 2016?",
+      "alternativaA": "Estados Unidos",
+      "alternativaB": "China",
+      "alternativaC": "Brasil",
+      "alternativaD": "Rússia",
+      "resposta_correta": "C"
+    },
+    {
+      "pergunta": "Qual é o esporte mais popular no Japão?",
+      "alternativaA": "Basebol",
+      "alternativaB": "Sumô",
+      "alternativaC": "Futebol",
+      "alternativaD": "Tênis",
+      "resposta_correta": "B"
+    },
+    {
+      "pergunta": "Qual jogador marcou o gol mais rápido na história da Copa do Mundo?",
+      "alternativaA": "Clint Dempsey",
+      "alternativaB": "Hakan Şükür",
+      "alternativaC": "Ronaldo",
+      "alternativaD": "Tim Cahill",
+      "resposta_correta": "B"
+    },
+    {
+      "pergunta": "Qual é o esporte mais popular nos Estados Unidos?",
+      "alternativaA": "Futebol Americano",
+      "alternativaB": "Basebol",
+      "alternativaC": "Basquete",
+      "alternativaD": "Futebol",
+      "resposta_correta": "A"
+    },
+    {
+      "pergunta": "Qual país é o berço do tênis moderno?",
+      "alternativaA": "Estados Unidos",
+      "alternativaB": "Inglaterra",
+      "alternativaC": "França",
+      "alternativaD": "Austrália",
+      "resposta_correta": "B"
+    },
+    {
+      "pergunta": "Qual é o nome dado ao evento esportivo em que equipes de remo competem?",
+      "alternativaA": "Regata",
+      "alternativaB": "Maratona",
+      "alternativaC": "Rally",
+      "alternativaD": "Travessia",
+      "resposta_correta": "A"
+    },
+    {
+      "pergunta": "Qual esporte é conhecido como 'o esporte rei'?",
+      "alternativaA": "Futebol",
+      "alternativaB": "Rugby",
+      "alternativaC": "Críquete",
+      "alternativaD": "Golfe",
+      "resposta_correta": "A"
+    },
+    {
+      "pergunta": "Quantos jogadores compõem uma equipe de polo aquático?",
+      "alternativaA": "6",
+      "alternativaB": "7",
+      "alternativaC": "8",
+      "alternativaD": "9",
+      "resposta_correta": "C"
+    },
+
+    {
+      "pergunta": "Qual é o esporte mais antigo registrado na história?",
+      "alternativaA": "Luta",
+      "alternativaB": "Corrida",
+      "alternativaC": "Arremesso",
+      "alternativaD": "Salto",
+      "resposta_correta": "A"
+    },
+    {
+      "pergunta": "Em que ano o Brasil sediou a Copa do Mundo de Futebol pela primeira vez?",
+      "alternativaA": "1954",
+      "alternativaB": "1962",
+      "alternativaC": "1970",
+      "alternativaD": "2014",
+      "resposta_correta": "D"
+    },
+    {
+      "pergunta": "Qual é o único esporte que foi jogado na Lua?",
+      "alternativaA": "Golfe",
+      "alternativaB": "Tênis",
+      "alternativaC": "Futebol",
+      "alternativaD": "Corrida",
+      "resposta_correta": "A"
+    },
+    {
+      "pergunta": "Quem é o maior artilheiro da história da Copa do Mundo de Futebol?",
+      "alternativaA": "Pele",
+      "alternativaB": "Miroslav Klose",
+      "alternativaC": "Diego Maradona",
+      "alternativaD": "Lionel Messi",
+      "resposta_correta": "B"
+    },
+    {
+      "pergunta": "Qual é a modalidade esportiva do evento 'Ironman'?",
+      "alternativaA": "Triatlo",
+      "alternativaB": "Corrida de Obstáculos",
+      "alternativaC": "Maratona Aquática",
+      "alternativaD": "Ciclismo de Estrada",
+      "resposta_correta": "A"
+    },
+    {
+      "pergunta": "Quantos jogadores compõem uma equipe de vôlei em quadra?",
+      "alternativaA": "5",
+      "alternativaB": "6",
+      "alternativaC": "7",
+      "alternativaD": "8",
+      "resposta_correta": "B"
+    }
+  ]
+}
